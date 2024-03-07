@@ -1,2 +1,2 @@
 # SPRING+ 
-Code for SPRING+ Positioning System
+This Code implements SPRING+ Positioning System.
